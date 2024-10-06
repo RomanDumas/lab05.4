@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR5.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBF4EDB-E56F-418C-B09C-D524CF28925D}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFBF4EDB-E56F-418C-B09C-D524CF28925D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09F4DB9-C8C1-4F2F-920A-D982A4223E14}|LR5.4\\LR5.4.vcxproj|C:\\Users\\hp\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D09F4DB9-C8C1-4F2F-920A-D982A4223E14}|LR5.4\\LR5.4.vcxproj|solutionrelative:LR5.4\\LR5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR5.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T14:35:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp",
+              "RelativeDocumentMoniker": "LR5.4\\LR5.4.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR5.4\\LR5.4\\LR5.4.cpp",
+              "RelativeToolTip": "LR5.4\\LR5.4.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T11:06:01.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
